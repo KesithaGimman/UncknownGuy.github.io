@@ -1,0 +1,28 @@
+.danger{
+   color: red;
+   text-align: center;
+}
+.col1{
+  padding-top: 50px;
+  border: 0px;
+  border-color: red;
+  padding-bottom: 50px;
+  
+}
+.col2{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-color: red;
+}
+.bacco{
+  background-color: black;
+  color: black;
+}
+
+.Advertising{
+      
+}
+.videos{
+  border: 10px;
+  border-color: red;
+}
